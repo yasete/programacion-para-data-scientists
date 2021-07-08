@@ -1,0 +1,5 @@
+Prueba de test:Pregunta 55 es ambigua join puede usarse también para unir x columnas. Reformular
+Temario correcto para dar casi sin prácticas durante clase. Además di matplotlib en una hora de tutoria.
+Lanzar anuncio previo para que se miren los módulos de introducción a python.
+Poner práctica en otro modo, no en modo pregunta abierta, sino para subir directamente el notebook (ver en herramienta cómo hacerlo)
+Ajustar los puntos de cada pregunta para que la suma de 20 preguntas de 10. Así no hay que actualizar la nota a mano después.
